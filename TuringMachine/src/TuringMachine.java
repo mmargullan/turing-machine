@@ -1,6 +1,6 @@
 import java.util.HashMap;
 import java.util.Map;
-// for debug
+// for test
 public class TuringMachine {
     private char[] tape;
     private int head;
